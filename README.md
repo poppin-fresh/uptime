@@ -2,7 +2,7 @@
 
 This repository contains the open-source uptime monitor and status page for [poppin-fresh](https://poppin-fresh.github.io/upptime), powered by [Upptime](https://github.com/upptime/upptime).
 
-[![Uptime CI](https://github.com/poppin-fresh/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/poppin-fresh/upptime/actions?query=workflow%3A%22Uptime+CI%22)
+[![Uptime CI](https://github.com/poppin-fresh/uptime/workflows/Uptime%20CI/badge.svg)](https://github.com/poppin-fresh/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/poppin-fresh/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/poppin-fresh/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
 [![Graphs CI](https://github.com/poppin-fresh/upptime/workflows/Graphs%20CI/badge.svg)](https://github.com/poppin-fresh/upptime/actions?query=workflow%3A%22Graphs+CI%22)
 [![Static Site CI](https://github.com/poppin-fresh/upptime/workflows/Static%20Site%20CI/badge.svg)](https://github.com/poppin-fresh/upptime/actions?query=workflow%3A%22Static+Site+CI%22)
