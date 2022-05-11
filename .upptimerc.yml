@@ -5,10 +5,10 @@ repo: uptime # The name of this repository
 sites:
   - name: Elevated Website
     url: https://elevatedservers.com/
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: Elevated Game Panel
+    url: https://panel.elevatedservers.com/
   - name: Hacker News
-    url: https://news.ycombinator.com
+    url: https://us1.elevatedservers.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
@@ -23,9 +23,9 @@ status-website:
   introMessage: 
   navbar:
     - title: Elevated Servers Monitor
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://elevatedservers.com/
+    - title: Game Panel
+      href: https://panel.elevatedservers.com/
 i18n:
   footer: Status Monitor for [Elevated Servers](https://elevatedservers.com)
 # Upptime also supports notifications, assigning issues, and more
