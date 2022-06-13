@@ -4,10 +4,10 @@
     "url": "https://elevatedservers.com/",
     "icon": "https://favicons.githubusercontent.com/elevatedservers.com",
     "slug": "elevated-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3005,
@@ -15,17 +15,19 @@
     "timeWeek": 3108,
     "timeMonth": 3018,
     "timeYear": 3005,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-13": 1
+    }
   },
   {
     "name": "Elevated Game Panel",
     "url": "https://panel.elevatedservers.com/",
     "icon": "https://favicons.githubusercontent.com/panel.elevatedservers.com",
     "slug": "elevated-game-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1020,
@@ -33,7 +35,9 @@
     "timeWeek": 911,
     "timeMonth": 1016,
     "timeYear": 1020,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-13": 1
+    }
   },
   {
     "name": "Hacker News",
