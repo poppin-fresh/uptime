@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/elevatedservers.com",
     "slug": "elevated-website",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.31%",
+    "uptimeDay": "9.80%",
+    "uptimeWeek": "87.11%",
+    "uptimeMonth": "97.03%",
+    "uptimeYear": "97.31%",
     "time": 3005,
-    "timeDay": 3323,
-    "timeWeek": 3108,
-    "timeMonth": 3018,
+    "timeDay": 0,
+    "timeWeek": 3170,
+    "timeMonth": 3009,
     "timeYear": 3005,
     "dailyMinutesDown": {
-      "2022-06-13": 1
+      "2022-06-14": 79,
+      "2022-06-13": 1219
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://favicons.githubusercontent.com/panel.elevatedservers.com",
     "slug": "elevated-game-panel",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.30%",
+    "uptimeDay": "9.84%",
+    "uptimeWeek": "87.12%",
+    "uptimeMonth": "97.04%",
+    "uptimeYear": "97.30%",
     "time": 1020,
-    "timeDay": 1067,
-    "timeWeek": 911,
-    "timeMonth": 1016,
+    "timeDay": 0,
+    "timeWeek": 926,
+    "timeMonth": 1014,
     "timeYear": 1020,
     "dailyMinutesDown": {
-      "2022-06-13": 1
+      "2022-06-14": 79,
+      "2022-06-13": 1219
     }
   },
   {
